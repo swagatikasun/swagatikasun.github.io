@@ -1,5 +1,7 @@
 import React, { useState, useEffect } from 'react';
 
+import Social from '../social';
+
 import './index.css';
 
 const Component = (props) => {
@@ -27,13 +29,20 @@ const Component = (props) => {
     }, []);
 
     return (
-        <div className="bio">
-            <p className={`designation ${largeMode ? 'd-lg-mode' : ''}`}>{content.designation}</p>
-            <p className="organization">
-                <i className="far fa-building" />
-                &nbsp;
-                {content.organization}
-            </p>
+        <div>
+            <div className="bio row">
+                <p className={`designation ${largeMode ? 'd-lg-mode' : ''}`}>
+                    {content.designation}
+                </p>
+                <p className="organization">
+                    <i className="far fa-building" />
+                    &nbsp;
+                    {content.organization}
+                </p>
+            </div>
+            <div className="row">
+                <Social />
+            </div>
         </div>
     );
 };
