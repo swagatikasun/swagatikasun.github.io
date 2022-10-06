@@ -29,7 +29,7 @@ const Component = () => {
 
     return (
         <div className="header row">
-            <div className="col-lg-5">
+            <div className="col-lg-5 header-name">
                 <div className="header-photo row d-lg-none d-block">
                     <img
                         src={`${process.env.REACT_APP_STATIC_URL}/static/img/profile.jpg`}
@@ -74,7 +74,7 @@ const Component = () => {
                         >
                             Resume
                         </a>
-                        &nbsp;&nbsp;
+                        &nbsp;
                         <i className="fas fa-external-link-alt" />
                     </span>
                     <span className="d-none d-lg-inline-block">

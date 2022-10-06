@@ -55,3 +55,13 @@
     display: inline-block;
     padding: 0 10px;
 }
+
+@media (min-width: 1200px) {
+    .header-name {
+        text-align: left;
+    }
+
+    .header-links {
+        text-align: right;
+    }
+}

@@ -2,7 +2,9 @@ import React, { useState, useEffect } from 'react';
 
 import './index.css';
 
-const Component = () => {
+const Component = (props) => {
+    const { largeMode } = props;
+
     const URL = `${process.env.REACT_APP_STATIC_URL}/data/bio.json`;
 
     const [content, setContent] = useState({
@@ -26,7 +28,7 @@ const Component = () => {
 
     return (
         <div className="bio">
-            <p className="designation">{content.designation}</p>
+            <p className={`designation ${largeMode ? 'd-lg-mode' : ''}`}>{content.designation}</p>
             <p className="organization">
                 <i className="far fa-building" />
                 &nbsp;
