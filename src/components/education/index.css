@@ -1,0 +1,18 @@
+.education {
+    font-family: 'JetBrains Mono', monospace;
+}
+
+.education h4 {
+    font-size: 1.2em;
+}
+
+.education-entry h5 {
+    margin: 10px 0px 0px 0px;
+    font-size: 1em;
+    color: #58a6ff;
+}
+
+.education-entry p {
+    margin: 0px;
+    font-size: 0.9em;
+}

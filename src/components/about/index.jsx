@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 
 import MDParser from '../md-parser';
+import Education from '../education';
 
 import './index.css';
 
@@ -19,8 +20,12 @@ const Component = () => {
     }, []);
 
     return (
-        <div className="home-about">
+        <div className="row home-about">
             <MDParser content={content} />
+            <div className="col-lg-6">sd</div>
+            <div className="col-lg-6">
+                <Education />
+            </div>
         </div>
     );
 };

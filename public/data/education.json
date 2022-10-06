@@ -1,0 +1,20 @@
+[
+    {
+        "degree": "PhD",
+        "major": "Computer Science & Engineering",
+        "institute": "Indian Institute of Technology Patna",
+        "duration": "2019 - Present"
+    },
+    {
+        "degree": "M. Tech",
+        "major": "Computer Science & Engineering",
+        "institute": "Indian Institute of Technology Patna",
+        "duration": "2022 - Present"
+    },
+    {
+        "degree": "B. Tech",
+        "major": "Computer Science & Engineering",
+        "institute": "RCC Institute of Information Technology",
+        "duration": "2018 - 2022"
+    }
+]
