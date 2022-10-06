@@ -1,0 +1,57 @@
+.header {
+    padding: 5px;
+}
+
+.header-links {
+    text-align: center;
+    margin: auto;
+}
+
+.header-photo {
+    text-align: center;
+    /* padding-top: 20px; */
+    padding: 30px 10px 15px 10px;
+}
+
+.header-photo img {
+    margin: auto;
+    width: 15em;
+    border-radius: 100%;
+}
+
+.header h3 {
+    font-family: 'JetBrains Mono', monospace;
+    font-weight: 300;
+}
+
+.header-title {
+    font-family: 'Playfair Display', serif;
+    font-weight: 600;
+    font-size: 1.2em;
+    text-decoration: none;
+}
+
+.header span {
+    font-family: 'JetBrains Mono', monospace;
+    font-weight: 100;
+    /* text-decoration: none; */
+    /* color: inherit; */
+}
+
+.header h3 > img {
+    width: 1.5em;
+    border-radius: 100%;
+    margin: auto;
+    display: flex;
+}
+
+.header-links h3 {
+    font-size: 1em;
+    margin: auto;
+    padding-top: 8px;
+}
+
+.header-links h3 > span {
+    display: inline-block;
+    padding: 0 10px;
+}

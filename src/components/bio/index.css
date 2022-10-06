@@ -1,0 +1,12 @@
+.bio {
+    padding-bottom: 1.2em;
+}
+
+.bio p {
+    margin: 0px;
+    font-family: 'Jetbrains Mono', monospace;
+}
+
+.designation {
+    font-weight: 100;
+}
