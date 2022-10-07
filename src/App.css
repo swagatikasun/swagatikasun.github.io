@@ -5,3 +5,12 @@
 body a {
     color: inherit;
 }
+
+section {
+    margin: 1em 0em;
+}
+
+section div > h3 {
+    font-family: 'Playfair Display', sans-serif;
+    text-align: center;
+}
