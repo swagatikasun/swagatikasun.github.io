@@ -1,0 +1,13 @@
+.interests {
+    font-family: 'JetBrains Mono', monospace;
+    margin: 1em 0em;
+}
+
+.interests h4 {
+    font-size: 1.2em;
+}
+
+.interests ul > li {
+    margin: 0px;
+    font-size: 0.9em;
+}
