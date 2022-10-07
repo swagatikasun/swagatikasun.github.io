@@ -1,4 +1,6 @@
 .home-about {
     text-align: justify;
     padding: 2em 1em 1em 1em;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
 }

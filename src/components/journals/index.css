@@ -1,0 +1,41 @@
+.journals {
+    padding: 10px;
+    text-align: justify;
+}
+
+.journals h3 {
+    /* padding-bottom: 10px; */
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 1.2em;
+}
+
+.journals p,
+h6 {
+    margin: 0;
+    margin-bottom: 5px;
+}
+
+.journals li {
+    padding-bottom: 10px;
+    text-align: left;
+}
+
+.journal-author {
+    font-family: 'IBM Plex Mono', monospace;
+}
+
+.journal-title {
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    font-size: 0.8em;
+    color: #58a6ff;
+    /* font-weight: 300; */
+}
+
+.journal-volume {
+    font-family: 'IBM Plex Mono', monospace;
+}
+
+.journal-status {
+    color: #bbb;
+}

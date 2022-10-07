@@ -1,0 +1,36 @@
+[
+    {
+        "authors": [
+            "Swagatika Sahoo",
+            "Rishu Roshan",
+            "Vikash Singh",
+            "Raju Halder"
+        ],
+        "title": "BDmark: A Blockchain-driven Approach to Big Data Watermarking",
+        "link": "https://www.iitp.ac.in/~halder/Papers/Conference/ACIIDS_2020.pdf",
+        "prefix": "Proc. of the",
+        "conference": "12th Asian Conference on Intelligent Information and Database Systems",
+        "conferenceShort": "ACIIDS '20",
+        "pages": "71-84",
+        "location": "Phuket, Thailand",
+        "date": "23-26 Mar 2020",
+        "publisher": "Springer CCIS 1178"
+    },
+    {
+        "authors": [
+            "Swagatika Sahoo",
+            "Rishu Roshan",
+            "Vikash Singh",
+            "Raju Halder"
+        ],
+        "title": "BDmark: A Blockchain-driven Approach to Big Data Watermarking",
+        "link": "https://www.iitp.ac.in/~halder/Papers/Conference/ACIIDS_2020.pdf",
+        "prefix": "Proc. of the",
+        "conference": "12th Asian Conference on Intelligent Information and Database Systems",
+        "conferenceShort": "ACIIDS '20",
+        "pages": "71-84",
+        "location": "Phuket, Thailand",
+        "date": "23-26 Mar 2020",
+        "publisher": "Springer CCIS 1178"
+    }
+]
