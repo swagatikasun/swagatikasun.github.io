@@ -14,10 +14,10 @@ const Component = () => {
             <section id="Publications">
                 <Publications />
             </section>
-            <section id="#Projects">
+            <section id="Projects">
                 <Projects />
             </section>
-            <section id="#Awards">
+            <section id="Awards">
                 <Awards />
             </section>
         </div>

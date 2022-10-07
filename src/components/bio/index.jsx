@@ -36,7 +36,7 @@ const Component = (props) => {
                 </p>
                 <p className="organization">
                     <i className="far fa-building" />
-                    &nbsp;
+                    &nbsp;&nbsp;
                     {content.organization}
                 </p>
             </div>

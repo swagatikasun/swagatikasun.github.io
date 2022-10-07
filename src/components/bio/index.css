@@ -4,7 +4,6 @@
 
 .bio p {
     margin: 0px;
-    font-family: 'Jetbrains Mono', monospace;
 }
 
 .d-lg-mode {
@@ -12,5 +11,11 @@
 }
 
 .designation {
+    font-family: 'Jetbrains Mono', monospace;
     font-weight: 100;
+}
+
+.organization {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
 }

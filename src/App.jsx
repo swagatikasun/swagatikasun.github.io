@@ -6,6 +6,7 @@ import './App.css';
 import Home from './pages/Home';
 
 import Header from './components/header';
+import Footer from './components/footer';
 
 const App = () => {
     return (
@@ -15,6 +16,8 @@ const App = () => {
             <Routes>
                 <Route path={`${process.env.PUBLIC_URL}/`} element={<Home />} />
             </Routes>
+
+            <Footer />
         </div>
     );
 };

@@ -61,11 +61,11 @@ const Component = () => {
                     <span>
                         <a href="#Publications">Publications</a>
                     </span>
-                    {/* <span>
-                        <a href="#Awards">Awards &amp; Rewards</a>
-                    </span> */}
                     <span>
                         <a href="#Projects">Projects</a>
+                    </span>
+                    <span>
+                        <a href="#Awards">Awards</a>
                     </span>
                     <span>
                         <a

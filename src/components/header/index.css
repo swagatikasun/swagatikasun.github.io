@@ -53,7 +53,7 @@
 
 .header-links h3 > span {
     display: inline-block;
-    padding: 0 10px;
+    padding: 5px 10px;
 }
 
 @media (min-width: 1200px) {
