@@ -3,6 +3,7 @@ import React from 'react';
 import Home from '../sections/home';
 import Publications from '../sections/publications';
 import Projects from '../sections/projects';
+import Awards from '../sections/awards';
 
 const Component = () => {
     return (
@@ -15,6 +16,9 @@ const Component = () => {
             </section>
             <section id="#Projects">
                 <Projects />
+            </section>
+            <section id="#Awards">
+                <Awards />
             </section>
         </div>
     );
