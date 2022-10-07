@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Template Portfolio Website for Researchers",
+        "link": "https://github.com/mukherjeearnab/researcher-portfolio",
+        "user": "mukherjeearnab",
+        "repository": "researcher-portfolio",
+        "description": "A Template Frontend Project based on React JS, designed as a Portfolio Website for Researchers or University Professors.",
+        "sample": "https://mukherjeearnab.github.io/researcher-portfolio"
+    },
+    {
+        "name": "Distributed Deep Q Learning",
+        "link": "https://github.com/mukherjeearnab/distributed-deep-qnet",
+        "user": "mukherjeearnab",
+        "repository": "distributed-deep-qnet",
+        "description": "Implementation of a distributed architecture for Deep Q Learning, based on DownpourSGD. Implemented on Python, using PyTorch, Flask, OpenAI Gym, based on a client-server model.",
+        "sample": ""
+    }
+]

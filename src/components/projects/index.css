@@ -1,0 +1,32 @@
+.project-repo {
+    font-size: 0.9em;
+    font-family: 'JetBrains Mono', monospace;
+}
+
+.project-repo a {
+    text-decoration: none;
+}
+
+.h-link {
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    font-size: 0.8em;
+    color: #58a6ff;
+}
+
+.project-content {
+    margin-bottom: 1em;
+}
+
+.project-content p {
+    margin: 0px;
+}
+
+.project-desc {
+    text-align: justify;
+}
+
+.project-desc a {
+    color: #58a6ff;
+    text-decoration: none;
+}
