@@ -4,7 +4,7 @@ import { SiResearchgate, SiGooglescholar } from 'react-icons/si';
 import './index.css';
 
 const Component = () => {
-    const URL = `${process.env.REACT_APP_STATIC_URL}/data/social.json`;
+    const URL = `${process.env.PUBLIC_URL}/data/social.json`;
 
     const [content, setContent] = useState({
         name: '',

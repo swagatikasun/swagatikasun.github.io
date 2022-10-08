@@ -7,7 +7,7 @@ import Interests from '../interests';
 import './index.css';
 
 const Component = () => {
-    const URL = `${process.env.REACT_APP_STATIC_URL}/data/about.md`;
+    const URL = `${process.env.PUBLIC_URL}/data/about.md`;
 
     const [content, setContent] = useState('');
 

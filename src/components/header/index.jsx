@@ -6,7 +6,7 @@ import Bio from '../bio';
 import './index.css';
 
 const Component = () => {
-    const URL = `${process.env.REACT_APP_STATIC_URL}/data/bio.json`;
+    const URL = `${process.env.PUBLIC_URL}/data/bio.json`;
 
     const [content, setContent] = useState({
         name: '',
@@ -31,15 +31,12 @@ const Component = () => {
         <div className="header row">
             <div className="col-lg-5 header-name">
                 <div className="header-photo row d-lg-none d-block">
-                    <img
-                        src={`${process.env.REACT_APP_STATIC_URL}/static/img/profile.jpg`}
-                        alt="profile"
-                    />
+                    <img src={`${process.env.PUBLIC_URL}/static/img/profile.jpg`} alt="profile" />
                 </div>
                 <h3>
                     {/* <img
                         className="d-none d-lg-inline-block"
-                        src={`${process.env.REACT_APP_STATIC_URL}/static/img/profile.jpg`}
+                        src={`${process.env.PUBLIC_URL}/static/img/profile.jpg`}
                         alt="profile"
                     /> */}
                     <a to={`${process.env.PUBLIC_URL}/`} className="header-title">
@@ -69,7 +66,7 @@ const Component = () => {
                     </span>
                     <span>
                         <a
-                            href={`${process.env.REACT_APP_STATIC_URL}/static/${process.env.REACT_APP_NAME}_Resume.pdf`}
+                            href={`${process.env.PUBLIC_URL}/static/${process.env.REACT_APP_NAME}_Resume.pdf`}
                             target="blank"
                         >
                             Resume

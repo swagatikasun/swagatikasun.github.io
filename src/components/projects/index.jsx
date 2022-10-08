@@ -3,7 +3,7 @@ import React, { useState, useEffect } from 'react';
 import './index.css';
 
 const Component = () => {
-    const URL = `${process.env.REACT_APP_STATIC_URL}/data/projects.json`;
+    const URL = `${process.env.PUBLIC_URL}/data/projects.json`;
 
     const [content, setContent] = useState([]);
 

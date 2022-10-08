@@ -7,7 +7,7 @@ import './index.css';
 const Component = (props) => {
     const { largeMode } = props;
 
-    const URL = `${process.env.REACT_APP_STATIC_URL}/data/bio.json`;
+    const URL = `${process.env.PUBLIC_URL}/data/bio.json`;
 
     const [content, setContent] = useState({
         name: '',
