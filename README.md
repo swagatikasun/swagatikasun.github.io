@@ -12,6 +12,7 @@ For deploying, first fork the repository with the `main` branch of this reposito
 
     1. Modify all `.json` and `.md` files in the `data` directory.
     2. Update the `static/img/profile.jpg` with your photo. NOTE: The photo should be of the aspect ratio of 1:1.
+    3. Change the `REACT_APP_NAME` in `.env` to your name, just like you did in `bio.json`.
 
 3. Once all of these are done, go to your repository's settings, then **Pages**, and set GitHub Pages to the `gh-pages` branch, and select the root directory to serve the content from.
 
