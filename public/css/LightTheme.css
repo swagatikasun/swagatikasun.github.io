@@ -1,4 +1,5 @@
-body {
+body,
+.header {
     background-color: #fff;
     color: #454545;
 }

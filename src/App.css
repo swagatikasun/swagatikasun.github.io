@@ -8,6 +8,7 @@ body a {
 
 section {
     padding: 0em 0em 2em 0em;
+    scroll-margin-top: calc(4em);
 }
 
 section div > h3 {

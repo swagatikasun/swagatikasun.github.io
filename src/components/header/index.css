@@ -1,5 +1,6 @@
 .header {
     padding: 5px;
+    transition: 0.5s;
 }
 
 .header-links {
@@ -63,5 +64,12 @@
 
     .header-links {
         text-align: right;
+    }
+
+    .header {
+        position: -webkit-sticky;
+        position: sticky;
+        top: 0;
+        z-index: 1020;
     }
 }
