@@ -1,17 +1,58 @@
 [
     {
         "authors": [
+            "Arnab Mukherjee",
             "Swagatika Sahoo",
-            "Akshay M. Fajge",
-            "Raju Halder",
-            "Agostino Cortesi"
+            "Raju Halder"
         ],
-        "title": "A Hierarchical and Abstraction-based Blockchain Model",
+        "title": "A Blockchain-Based Integrated and Interconnected Hybrid Platform for Smart City Ecosystem",
+        "link": "https://link.springer.com/article/10.1007/s12083-022-01338-z",
+        "journal": "Peer-to-Peer Networking and Applications",
+        "volume": "15: 2116-2141",
+        "publisher": "Springer Nature",
+        "year": 2022,
+        "status": ""
+    },
+    {
+        "authors": [
+            "Oindrila Bhadra",
+            "Swagatika Sahoo",
+            "Raju Halder",
+            "Chandra Mohan Kumar"
+        ],
+        "title": "AgroBLF: Blockchain-Based Framework for Smart Agriculture",
         "link": "https://www.mdpi.com/2076-3417/9/11/2343/htm",
-        "journal": "Applied Sciences",
-        "volume": "9 (11): 1-20",
-        "publisher": "MDPI",
-        "year": 2019,
+        "journal": "Innovations in Systems and Software Engineering",
+        "volume": "",
+        "publisher": "Springer",
+        "year": 2022,
+        "status": "Accepted"
+    },
+    {
+        "authors": [
+            "Swagatika Sahoo",
+            "Arnab Mukherjee",
+            "Raju Halder"
+        ],
+        "title": "A Unified Blockchain-based Platform for Global e-waste Management",
+        "link": "https://doi.org/10.1108/IJWIS-03-2021-0024",
+        "journal": "International Journal of Web Information Systems",
+        "volume": "17(5): 449-479",
+        "publisher": "Emerald Publishing",
+        "year": 2021,
+        "status": ""
+    },
+    {
+        "authors": [
+            "Swagatika Sahoo",
+            "Raju Halder"
+        ],
+        "title": "Traceability and Ownership Claim of Data on Big Data Marketplace using Blockchain Technology",
+        "link": "https://www.tandfonline.com/doi/full/10.1080/24751839.2020.1819634",
+        "journal": "Journal of Information and Telecommunication",
+        "volume": "5(1): 35-61",
+        "publisher": "Taylor & Francis",
+        "year": 2021,
         "status": ""
     },
     {

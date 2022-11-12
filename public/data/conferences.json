@@ -2,19 +2,34 @@
     {
         "authors": [
             "Swagatika Sahoo",
-            "Rishu Roshan",
-            "Vikash Singh",
+            "Saksham Jha",
+            "Somenath Sarkar",
             "Raju Halder"
         ],
-        "title": "BDmark: A Blockchain-driven Approach to Big Data Watermarking",
+        "title": "BLRS: An Automated Land Records Management System using Blockchain Technology",
         "link": "https://www.iitp.ac.in/~halder/Papers/Conference/ACIIDS_2020.pdf",
         "prefix": "Proc. of the",
-        "conference": "12th Asian Conference on Intelligent Information and Database Systems",
-        "conferenceShort": "ACIIDS '20",
-        "pages": "71-84",
-        "location": "Phuket, Thailand",
-        "date": "23-26 Mar 2020",
-        "publisher": "Springer CCIS 1178"
+        "conference": "9th International Symposium on Applied Computing for Software and Smart Systems",
+        "conferenceShort": "ACSS '22",
+        "pages": "xx-xx",
+        "location": "Kolkata, India",
+        "date": "9-10 Sept 2022",
+        "publisher": "Springer LNNS"
+    },
+    {
+        "authors": [
+            "Swagatika Sahoo",
+            "Raju Halder"
+        ],
+        "title": "Blockchain-based Forward and Reverse Supply Chains for E-Waste Management",
+        "link": "https://link.springer.com/chapter/10.1007/978-3-030-63924-2_12",
+        "prefix": "Proc. of the",
+        "conference": "7th International Conference on Future Data and Security Engineering",
+        "conferenceShort": "FDSE '20",
+        "pages": "201-220",
+        "location": "Binh Dinh, Vietnam",
+        "date": "25-27 Nov 2020",
+        "publisher": "Springer LNCS 12466"
     },
     {
         "authors": [
@@ -24,7 +39,7 @@
             "Raju Halder"
         ],
         "title": "BDmark: A Blockchain-driven Approach to Big Data Watermarking",
-        "link": "https://www.iitp.ac.in/~halder/Papers/Conference/ACIIDS_2020.pdf",
+        "link": "https://link.springer.com/chapter/10.1007/978-981-15-3380-8_7",
         "prefix": "Proc. of the",
         "conference": "12th Asian Conference on Intelligent Information and Database Systems",
         "conferenceShort": "ACIIDS '20",
