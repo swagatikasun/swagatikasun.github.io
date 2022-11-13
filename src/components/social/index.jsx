@@ -28,19 +28,19 @@ const Component = () => {
     return (
         <div>
             <p className="social-icons">
-                <a href={content.github}>
+                <a target="blank" href={content.github}>
                     <i className="fab fa-github" />
                 </a>
-                <a href={content.researchGate}>
+                <a target="blank" href={content.researchGate}>
                     <SiResearchgate />
                 </a>
-                <a href={content.linkedin}>
+                <a target="blank" href={content.linkedin}>
                     <i className="fab fa-linkedin" />
                 </a>
-                <a href={content.googleScholar}>
+                <a target="blank" href={content.googleScholar}>
                     <SiGooglescholar />
                 </a>
-                <a href={`mailto:${content.mail}`}>
+                <a target="blank" href={`mailto:${content.mail}`}>
                     <i className="far fa-envelope-open" />
                 </a>
             </p>
