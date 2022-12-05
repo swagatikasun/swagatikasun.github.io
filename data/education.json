@@ -1,0 +1,20 @@
+[
+    {
+        "degree": "PhD",
+        "major": "Computer Science & Engineering",
+        "institute": "Indian Institute of Technology Patna",
+        "duration": "2019 - Present"
+    },
+    {
+        "degree": "M. Tech",
+        "major": "Computer Science & Engineering",
+        "institute": "Biju Patnaik University of Technology",
+        "duration": "2014 - 2016"
+    },
+    {
+        "degree": "B. Tech",
+        "major": "Computer Science & Engineering",
+        "institute": "Biju Patnaik University of Technology",
+        "duration": "2008 - 2012"
+    }
+]
