@@ -14,11 +14,11 @@ const Component = () => {
             <section id="Publications">
                 <Publications />
             </section>
-            <section id="Projects">
-                <Projects />
-            </section>
             <section id="Awards">
                 <Awards />
+            </section>
+            <section id="Projects">
+                <Projects />
             </section>
         </div>
     );

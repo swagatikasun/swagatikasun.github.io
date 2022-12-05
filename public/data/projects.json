@@ -1,18 +1,18 @@
 [
     {
-        "name": "Template Portfolio Website for Researchers",
-        "link": "https://github.com/mukherjeearnab/researcher-portfolio",
-        "user": "mukherjeearnab",
-        "repository": "researcher-portfolio",
-        "description": "A Template Frontend Project based on React JS, designed as a Portfolio Website for Researchers or University Professors.",
-        "sample": "https://mukherjeearnab.github.io/researcher-portfolio"
+        "name": "Blockchain-based Land Registry Application",
+        "link": "https://github.com/swagatikasun/land-registry-network",
+        "user": "swagatikasun",
+        "repository": "land-registry-network",
+        "description": "A Blockchain-based application for managing land registry related activities. Built using the Hyperledger Fabric blockchain platform. Uses Go and Javascript under the hood.",
+        "sample": ""
     },
     {
-        "name": "Distributed Deep Q Learning",
-        "link": "https://github.com/mukherjeearnab/distributed-deep-qnet",
-        "user": "mukherjeearnab",
-        "repository": "distributed-deep-qnet",
-        "description": "Implementation of a distributed architecture for Deep Q Learning, based on DownpourSGD. Implemented on Python, using PyTorch, Flask, OpenAI Gym, based on a client-server model.",
+        "name": "Blockchain-based E-Waste Management and Traceability",
+        "link": "https://github.com/swagatikasun/e-waste-management-ether",
+        "user": "swagatikasun",
+        "repository": "e-waste-management-ether",
+        "description": "Based on our work for E-waste traceability, this application is based on the idea of traceability of e-waste from their manufacturing to their disposal. The project is based on the Ethereum platform, with smart contracts built using Solidity.",
         "sample": ""
     }
 ]
