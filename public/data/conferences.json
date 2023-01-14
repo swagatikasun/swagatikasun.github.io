@@ -47,5 +47,19 @@
         "location": "Phuket, Thailand",
         "date": "23-26 Mar 2020",
         "publisher": "Springer CCIS 1178"
+    },
+    {
+        "authors": [
+            "Swagatika Sahoo"
+        ],
+        "title": "A parallel forecasting approach using incremental K-means clustering technique",
+        "link": "https://link.springer.com/chapter/10.1007/978-981-10-3874-7_16",
+        "prefix": "Proc. of the",
+        "conference": "Computational Intelligence in Data Mining",
+        "conferenceShort": "AISC '17",
+        "pages": "165-172",
+        "location": "Bhubaneswar, India",
+        "date": "23-26 Mar 2017",
+        "publisher": "Springer Singapore"
     }
 ]
