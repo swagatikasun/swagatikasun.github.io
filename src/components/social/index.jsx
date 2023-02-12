@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { SiResearchgate, SiGooglescholar } from 'react-icons/si';
+import Email from './email';
 
 import './index.css';
 
@@ -40,9 +41,7 @@ const Component = () => {
                 <a target="blank" href={content.googleScholar}>
                     <SiGooglescholar />
                 </a>
-                <a target="blank" href={`mailto:${content.mail}`}>
-                    <i className="far fa-envelope-open" />
-                </a>
+                <Email address={content.mail} />
             </p>
         </div>
     );
