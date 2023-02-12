@@ -1,5 +1,10 @@
-.email-button {
+/* .email-button {
     all: unset;
-    /* cursor: pointer; */
+    cursor: pointer;
     padding: 0px 1em;
 }
+
+.email-button:active {
+    all: unset;
+    padding: 0px 1em;
+} */

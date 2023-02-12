@@ -11,6 +11,7 @@
     },
     "plugins": ["react", "prettier"],
     "rules": {
+        "jsx-a11y/anchor-is-valid": "off",
         "jsx-a11y/no-noninteractive-element-interactions": "off",
         "react/prop-types": "off",
         "react/no-array-index-key": "off",
