@@ -1,6 +1,21 @@
 [
     {
         "authors": [
+            "Atul Thakur",
+            "Swagatika Sahoo",
+            "Arnab Mukherjee",
+            "Raju Halder"
+        ],
+        "title": "Making Robotic Swarms Trustful: A Blockchain-Based Perspective",
+        "link": "https://asmedigitalcollection.asme.org/computingengineering/article-abstract/23/6/060803/1160687",
+        "journal": "Journal of Computing and Information Science in Engineering",
+        "volume": "23: 060803",
+        "publisher": "American Society of Mechanical Engineers",
+        "year": 2023,
+        "status": ""
+    },
+    {
+        "authors": [
             "Arnab Mukherjee",
             "Swagatika Sahoo",
             "Raju Halder"
