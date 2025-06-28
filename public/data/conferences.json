@@ -1,4 +1,56 @@
 [
+ {
+        "authors": [ 
+            "Aritra Bhaduri",
+            "Ayush Kumar Jain",
+            "Swagatika Sahoo",
+            "Raju Halder",
+            "Chandra Mohan Kumar"
+        ],
+        "title": "Metasurance: A Blockchain-Based Insurance Management Framework for Metaverse.",
+        "link": "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.scitepress.org/Papers/2024/127221/127221.pdf",
+        "prefix": "Proc. of the",
+        "conference": "Evaluation of Novel Approaches to Software Engineering",
+        "conferenceShort": "ENASE'24",
+        "pages": "190-201",
+        "location": "ANGERS, FRANCE",
+        "date": "28 -29 APRIL 2024",
+        "publisher": "IEEE"
+    },
+    {
+        "authors": [ 
+            "Swagatika Sahoo",
+            "Raju Halder",
+            "Samrat Mondal"
+        ],
+        "title": "An Automated Policy Verification and Enforcement Framework for Ethereum Applications",
+        "link": "https://ieeexplore.ieee.org/abstract/document/10174879",
+        "prefix": "Proc. of the",
+        "conference": "IEEE International Conference on Blockchain and Cryptocurrency (ICBC)",
+        "conferenceShort": "ICBC'23",
+        "pages": "1-5",
+        "location": "Dubai, United Arab Emirates",
+        "date": "01-05 May 2023",
+        "publisher": "IEEE"
+    },
+    
+    {
+        "authors": [
+            "Oindrila Bhadra",
+            "Swagatika Sahoo",
+            "Chandra Mohan Kumar",
+            "Raju Halder"
+        ],
+        "title": "Decentralized Insurance Subrogation Using Blockchain",
+        "link": "https://dl.acm.org/doi/abs/10.1145/3581971.3581972",
+        "prefix": "Proc. of the",
+        "conference": "5th International Conference on Blockchain Technology and Applications",
+        "conferenceShort": "ICBTA'22",
+        "pages": "xx-xx",
+        "location": "China",
+        "date": "December 16 - 18 2022",
+        "publisher": "Association for Computing MachineryNew YorkNYUnited States"
+    },
     {
         "authors": [
             "Swagatika Sahoo",
