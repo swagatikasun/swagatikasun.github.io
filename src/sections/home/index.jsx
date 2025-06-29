@@ -10,7 +10,7 @@ const Component = () => {
         <div className="row home-sec">
             <div className="col-lg-4 col-12 d-lg-block d-none home-bio">
                 <div className="home-img">
-                    <img src={`${process.env.PUBLIC_URL}/static/img/7.jpg`} alt="profile" />
+                    <img src={`${process.env.PUBLIC_URL}/static/66073961.jpeg`} alt="profile" />
                 </div>
                 <Bio largeMode />
             </div>
