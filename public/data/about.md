@@ -6,10 +6,10 @@ During my Ph.D. at IIT Patna, I focused on addressing key challenges in blockcha
 
 My broader research interests lie at the intersection of trust, privacy, and decentralization, including:
 
-Designing self-sovereign identity frameworks using blockchain, decentralized identifiers (DIDs), and verifiable credentials
-Enhancing federated IoT systems through behavior-aware machine learning and adaptive risk-based security
-Applying lightweight privacy-preserving techniques such as homomorphic encryption and zero-knowledge proofs for resource-constrained environments
-Developing scalable consensus mechanisms and interoperable blockchain architectures
-Real-time threat detection using graph-based and temporal modeling techniques
+- Designing self-sovereign identity frameworks using blockchain, decentralized identifiers (DIDs), and verifiable credentials
+- Enhancing federated IoT systems through behavior-aware machine learning and adaptive risk-based security
+- Applying lightweight privacy-preserving techniques such as homomorphic encryption and zero-knowledge proofs for resource-constrained environments
+- Developing scalable consensus mechanisms and interoperable blockchain architectures
+- Real-time threat detection using graph-based and temporal modeling techniques
 
 Beyond research, I am passionate about mentoring students, fostering interdisciplinary collaboration, and exploring creative pursuits such as poetry and sustainable art using upcycled materials.
